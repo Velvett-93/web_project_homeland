@@ -17,4 +17,4 @@ Velvett Montserrat Gutiérrez Castillo - [gutierrezvelvett@gmail.com](mailto:gut
 
 GitHub - [Velvett-93](https://github.com/Velvett-93)
 
-[https://velvett-93.github.io/web_project_homeland/](https://velvett-93.github.io/web_project_homeland/)
+[https://velvett-93.github.io/web_project_homeland/](https://velvett-93.github.io/web_project_homeland/index.html)
