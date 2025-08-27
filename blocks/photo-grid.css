@@ -10,3 +10,18 @@
 .photo-grid__item {
   width: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    margin-top: 0;
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .photo-grid {
+    gap: 12px;
+    margin-top: 0;
+    padding: 0 16px;
+  }
+}
