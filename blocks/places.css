@@ -45,7 +45,6 @@
   width: 356px;
   height: 48px;
   border-radius: 4px;
-  border: none;
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -169,12 +168,12 @@
     justify-self: center;
   }
 
-  /* .places__url-heading {
+  .places__website {
     width: 288px;
     grid-column: 1;
     grid-row: 2;
     padding: 0 16px;
-  } */
+  }
 
   .places__paragraphs {
     grid-column: 1;
